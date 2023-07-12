@@ -1,4 +1,10 @@
-# Hola👋
+# Hola👋 soy aficionado a la programacion en constante capacitacion
+manejo los siguientes lenguajes:
+-Python
+-JavaScript
+-Html
+-Css
+-Java
 
 <!--
 **sebas149/sebas149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
